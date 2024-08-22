@@ -1,6 +1,6 @@
 ![logo](https://github.com/Poojarai18/Poojarai18/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Pooja Rai</h1>
-<h3 align="center">A passionate Data Engineer</h3>
+<h3 align="center">A passionate Data Secruity Engineer</h3>
 
 - 📫 How to reach me **prai1996@gmail.com**
 
